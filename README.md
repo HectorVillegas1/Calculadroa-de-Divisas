@@ -1,7 +1,7 @@
 
 Esta es una aplicación de calculadora de divisas simple desarrollada en Python utilizando P00.
 ﻿*Asignatura:** Desarrollo Web 1
-﻿*TSU;** Desarrollo de Software de Código Abierto
+﻿*TSU;** Servicios en la nube
 ﻿*Nombres:** Jose Hector
 ﻿*Apellidos:** Mejia Villegas
 ## Requisitos
